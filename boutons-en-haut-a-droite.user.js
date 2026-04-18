@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Boutons en haut à droite JVC
 // @namespace    http://tampermonkey.net/
-// @version      1
+// @version      1.1
 // @description  Boutons en haut à droite, séparation de signature plus longue et bouton de citation ajusté.
 // @match        https://www.jeuxvideo.com/forums/*
 // @author       Knifos
