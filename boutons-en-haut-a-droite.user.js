@@ -6,8 +6,8 @@
 // @match        https://www.jeuxvideo.com/forums/*
 // @author       Knifos
 // @run-at       document-start
-// @updateURL    https://github.com/Knifos/Boutons-en-haut-a-droite/raw/refs/heads/main/boutons-en-haut-a-droite.user.js
-// @downloadURL  https://github.com/Knifos/Boutons-en-haut-a-droite/raw/refs/heads/main/boutons-en-haut-a-droite.user.js
+// @updateURL    https://raw.githubusercontent.com/Knifos/Boutons-en-haut-a-droite/main/boutons-en-haut-a-droite.user.js
+// @downloadURL  https://raw.githubusercontent.com/Knifos/Boutons-en-haut-a-droite/main/boutons-en-haut-a-droite.user.js
 // @icon         https://i.ibb.co/ycJZz7s5/citation-knifos.png
 // @grant        none
 // ==/UserScript==
