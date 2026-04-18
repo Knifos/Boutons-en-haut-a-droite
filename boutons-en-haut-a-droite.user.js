@@ -85,7 +85,6 @@
     const observer = new MutationObserver(processMessages);
     observer.observe(document.documentElement, { childList: true, subtree: true });
 
-    setInterval(processMessages, 800);
 })();
 
 // Un problème ? Une suggestion ?
